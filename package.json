@@ -1,10 +1,19 @@
 {
     "name": "com.xyliem.interface",
     "displayName": "_Xyliem Interface",
+    "description": "Xyliem Interface fait des trucs cool",
     "version": "1.0.0",
     "unity": "2019.4",
-    "description": "Xyliem Interface fait des trucs cool",
-    "dependencies": {
-        "com.mycompany.mypackage": "https://github.com/Xyliem/Xyliem-Unity-Scripts.git"
-    }
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Xyliem/Xyliem-Unity-Scripts.git"
+    },
+    "keywords": [
+      "test",
+      "git",
+      "interface"
+    ],
+    "author": "Xyliem <loic.burckle@gmail.com> (https://github.com/xyliem)",
+    "dependencies": {}
 }
+  
